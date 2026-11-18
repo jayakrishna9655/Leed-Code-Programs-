@@ -94,6 +94,7 @@
 91. Binary Search
 92. Concatenation of Array
 93. Is Subsequence
+94. Append Characters to String to Make Subsequence
 
 
 
